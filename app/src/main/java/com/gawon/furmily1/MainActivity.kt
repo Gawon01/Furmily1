@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     Furmily1Theme {
-        Greeting("안녕하세요!")
+        Greeting("안녕하세요.")
     }
 }
